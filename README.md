@@ -37,4 +37,4 @@ Aims:
   5.1) Character Names in Latinised Greek from file
   5.2) City Names in the Same from file
   5.3) Markov Chain generator for gods, characters, and cities
-  5.4) Add Hebrew, Babylonian, Latin, Ugaritic, Coptic, and Amaraic
+  5.4) Add Hebrew, Babylonian, Latin, Ugaritic, Coptic, and Aramaic
